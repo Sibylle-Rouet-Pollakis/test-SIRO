@@ -1,9 +1,1 @@
 vcds
-<<<<<<< Updated upstream
-=======
-ggg
-jjj
-hhh
-vvv
-fff
->>>>>>> Stashed changes
